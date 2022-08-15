@@ -1,2 +1,2 @@
 # curso-js
- Projetos criadps no curso de JavaScript do Curso em Video
+ Projetos criados no curso de JavaScript do Curso em Video
